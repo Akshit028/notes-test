@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react"
 import { Card } from "@/components/ui/card"
 import { Note } from "./note"
-
+//
 interface NoteType {
     id: string
     title: string
